@@ -1,8 +1,8 @@
 === NoPIN ===
-Contributors: shawnhooper
+Contributors: shawnhooper, shooper
 Tags: pinterest, metadata, social media
 Requires at least: 2.0.2
-Tested up to: 3.3.1
+Tested up to: 4.0
 Stable tag: /trunk
 
 Blocks users from "pinning" pages from your WordPress site on the Pinterest social media site.
