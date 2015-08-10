@@ -1,5 +1,5 @@
 === NoPIN ===
-Contributors: shawnhooper, shooper
+Contributors: shooper
 Tags: pinterest, metadata, social media
 Requires at least: 2.0.2
 Tested up to: 4.3
